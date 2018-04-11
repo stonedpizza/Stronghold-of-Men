@@ -1,0 +1,6 @@
+
+foreach (var kill in kills) {
+  if (killer != "Eelco") {
+    killer = "Eelco";
+  }
+}
